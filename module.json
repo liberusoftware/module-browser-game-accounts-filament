@@ -3,7 +3,7 @@
   "name": "browser-game-accounts-filament",
   "display_name": "Browser Game Accounts Filament",
   "description": "Filament 5 account catalog and progress resources.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\BrowserGame\\AccountsFilament\\AccountsFilamentServiceProvider",
   "requires": {
